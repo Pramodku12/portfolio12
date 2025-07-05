@@ -1,0 +1,64 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "image": "./assets/Images/Project/svm.png",
+      "title": "School Website",
+      "desc": "Interactive, information website showcasing school's features, programs, and community.",
+      "category": "website",
+      "date": "December 2023",
+      "code": "https://github.com/Pramodku12/svm",
+      "live": "https://shardavidyamandir.vercel.app/"
+    },
+    {
+      "id": "2",
+      "image": "./assets/Images/Project/food.png",
+      "title": "Food Landing Website",
+      "desc": "Website boasts an intuitive and user-friendly interface, ensuring an effortless and enjoyable browsing experience.",
+      "category": "website",
+      "date": "November 2023",
+      "code": "https://github.com/Pramodku12/fast-food-website-main",
+      "live": "#"
+    },
+    {
+      "id": "3",
+      "image": "./assets/Images/Project/schoolimg.png",
+      "title": "Travel Booking",
+      "desc": "A travel booking landing website with a user-friendly interface, ensuring an effortless and enjoyable browsing experience.",
+      "category": "website",
+      "date": "September 2023",
+      "code": "https://github.com/Pramodku12/Travel-Booking-Website-main",
+      "live": "#"
+    },
+    {
+      "id": "4",
+      "image": "./assets/Images/Project/spring.jpeg",
+      "title": "Spring-Boot CRUD App",
+      "desc": "A simple Spring Boot application implementing CRUD operations using REST APIs, Spring Data JPA, and MySQL.",
+      "category": "Web App",
+      "date": "September 2024",
+      "code": "https://github.com/Pramodku12/Spring-Boot-Crud",
+      "live": "#"
+    },
+    {
+      "id": "5",
+      "image": "./assets/Images/Project/spring.jpeg",
+      "title": "Hotel Management System",
+      "desc": "A Hotel Management System built using Spring Boot, Spring Data JPA, and MySQL. Features include room booking, customer management, check-in/check-out tracking, and admin control panel. Designed with RESTful APIs for easy integration and scalability.",
+      "category": "Web App",
+      "date": "July 2024",
+      "code": "https://github.com/Pramodku12/Hotel-Management-System",
+      "live": "#"
+    },
+    {
+      "id": "6",
+      "image": "./assets/Images/Project/spring.jpeg",
+      "title": "School Management System",
+      "desc": "A School Management System developed using JSP, Servlet, and JDBC. It includes student registration, teacher management, class-wise assignments, result handling, and an admin dashboard. Designed with a MySQL backend for dynamic data management.",
+      "category": "Web App",
+      "date": "April 2023",
+      "code": "https://github.com/Pramodku12/School-Management-System",
+      "live": "#"
+    }
+  ]
+}
