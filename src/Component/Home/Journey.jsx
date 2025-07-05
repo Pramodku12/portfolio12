@@ -137,7 +137,7 @@ function Journey() {
                         className="icon"
                       />
                     </span>
-                    <p> 2022 - 2022</p>
+                    <p> 2022 - 2024</p>
                   </li>
                   <li>
                     <span className="icon-item">
