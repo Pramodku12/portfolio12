@@ -33,7 +33,7 @@ function Hero() {
                 sequence={[
                   "Spring Boot Developer",
                   1000,
-                  "Web Developer",
+                  "Software Engineer",
                   1000,
                 ]}
                 wrapper="span"
